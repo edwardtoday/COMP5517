@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<network name="user1" port="/dev/tty.usbserial-A100eNSi" LightSensor="174" LEDMatrix="128" LightColor="RED"/>
+	<network name="user2" port="/dev/tty.usbserial-FTTR5HFW" LightSensor="46" LEDMatrix="128" LightColor="GREEN"/>
+</config>
